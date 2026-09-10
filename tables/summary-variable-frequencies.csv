@@ -1,0 +1,46 @@
+Variable,Category,Studies (n),Percentage
+Clinical domain,Internal Medicine,5,25.0
+Clinical domain,Primary & Emergency Care,4,20.0
+Clinical domain,Psychiatry,4,20.0
+Clinical domain,Oncology,3,15.0
+Clinical domain,Surgery,2,10.0
+Clinical domain,Radiology,2,10.0
+Clinical task,Self-management,5,25.0
+Clinical task,Prognosis,4,20.0
+Clinical task,Screening,4,20.0
+Clinical task,Diagnosis,3,15.0
+Clinical task,Triage,3,15.0
+Clinical task,Treatment Selection,1,5.0
+Study design,Qualitative,6,30.0
+Study design,Randomised Experiment,6,30.0
+Study design,Observational Study,4,20.0
+Study design,Randomised Controlled Trial,2,10.0
+Study design,Mixed Methods,2,10.0
+AI architecture,Simulated Algorithm,7,35.0
+AI architecture,Black-Box + Post-Hoc,5,25.0
+AI architecture,LLM,4,20.0
+AI architecture,Interpretable ML,4,20.0
+Explanation modality,Textual,12,60.0
+Explanation modality,Hybrid,7,35.0
+Explanation modality,Visual,1,5.0
+Explanation scope,Local,14,70.0
+Explanation scope,Local & Global,5,25.0
+Explanation scope,Global,1,5.0
+Delivery format,Web Platform,9,45.0
+Delivery format,Conceptual Prototype,6,30.0
+Delivery format,Mobile Health App,2,10.0
+Delivery format,Static Report,2,10.0
+Delivery format,In-Clinic App,1,5.0
+Patient involvement phase,Summative Evaluation,11,55.0
+Patient involvement phase,Needs Assessment,4,20.0
+Patient involvement phase,Co-design,3,15.0
+Patient involvement phase,Clinical Implementation,2,10.0
+Subjective metrics,Validated Psychometric Scales,10,50.0
+Subjective metrics,Interviews & Focus Groups,6,30.0
+Subjective metrics,Unvalidated Questionnaires,4,20.0
+Objective metrics,Not Evaluated,11,55.0
+Objective metrics,AI Algorithm Performance,5,25.0
+Objective metrics,Patient Comprehension & Accuracy,4,20.0
+Behavioural metrics,Not Evaluated,12,60.0
+Behavioural metrics,Experimental Setting,6,30.0
+Behavioural metrics,Real-World Clinical,2,10.0

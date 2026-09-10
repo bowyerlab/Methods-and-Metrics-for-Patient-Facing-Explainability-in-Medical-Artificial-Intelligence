@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+build/
+dist/
+*.egg-info/
+
+# Environments
+.venv/
+venv/
+env/
+uv.lock.bak
+.direnv/
+.envrc
+.envrc.local
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Editors / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,4 @@
+# Strip Jupyter notebook outputs/metadata on commit via nbstripout.
+# Working copy keeps rendered outputs; git stores a clean, diff-friendly version.
+*.ipynb filter=nbstripout
+*.ipynb diff=ipynb

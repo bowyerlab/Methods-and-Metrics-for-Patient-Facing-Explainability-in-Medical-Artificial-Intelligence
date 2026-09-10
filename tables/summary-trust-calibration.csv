@@ -1,0 +1,7 @@
+Patient trust,Model performance,Matrix cell,Classification,Studies (n),Percentage,Studies
+High,Accurate,Appropriate Reliance,Concordant,5,25.0,Algarni (2025); Aziz et al. (2026); Begum et al. (2025); Tsai et al. (2021); Wu et al. (2025)
+High,Inaccurate,Over-Reliance,Discordant,3,15.0,Alduhailan et al. (2025); Gombolay et al. (2024); Metta et al. (2024)
+High,Unknown,Unverified Reliance,Unverified,9,45.0,Alam & Mueller (2021); Bolpagni et al. (2024); He et al. (2023); Hildebrand et al. (2023); Huang et al. (2024); Lombaers et al. (2026); Wang et al. (2025); Williams et al. (2025); Woodcock et al. (2021)
+Low,Accurate,Under-Reliance,Discordant,1,5.0,Gould et al. (2023)
+Low,Inaccurate,Appropriate Scepticism,Concordant,1,5.0,Zhang et al. (2021)
+Low,Unknown,Unverified Scepticism,Unverified,1,5.0,Sperling et al. (2025)

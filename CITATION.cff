@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper it accompanies."
+title: "Figure generation code for: Methods and Metrics for Patient-Facing Explainability in Medical Artificial Intelligence: A Systematic Scoping Review"
+abstract: >-
+  Matplotlib code that generates the publication figures and the Trust
+  Calibration Matrix for a PRISMA-ScR scoping review of patient-facing
+  explainable AI in medicine.
+type: software
+license: MIT
+# TODO: add the Zenodo DOI once the release is archived.
+# doi: 10.5281/zenodo.XXXXXXX
+authors:
+  - family-names: Kumarathas
+    given-names: Ashvin
+    orcid: "https://orcid.org/0009-0005-1135-6074"
+    affiliation: "Department of Surgery and Cancer, Imperial College London, London, United Kingdom"
+  - family-names: Surty
+    given-names: Yusuf
+    affiliation: "Department of Surgery and Cancer, Imperial College London, London, United Kingdom"
+  - family-names: Woyton
+    given-names: Mike
+    affiliation: "Department of Surgery and Cancer, Imperial College London, London, United Kingdom; Salisbury NHS Foundation Trust, Salisbury, United Kingdom"
+  - family-names: Lord
+    given-names: Amy
+    affiliation: "Department of Surgery and Cancer, Imperial College London, London, United Kingdom; Hampshire Hospitals NHS Foundation Trust, Basingstoke, United Kingdom"
+  - family-names: Bowyer
+    given-names: Stuart A
+    email: stuart.bowyer@imperial.ac.uk
+    affiliation: "Department of Surgery and Cancer, Imperial College London, London, United Kingdom"
+keywords:
+  - explainable artificial intelligence
+  - patient-facing AI
+  - trust calibration
+  - health literacy
+  - automation bias
+  - shared decision-making
+  - scoping review
+  - clinical decision support
+repository-code: "https://github.com/bowyerlab/Methods-and-Metrics-for-Patient-Facing-Explainability-in-Medical-Artificial-Intelligence"
+preferred-citation:
+  # TODO: add journal, volume, pages and DOI on acceptance.
+  type: article
+  title: "Methods and Metrics for Patient-Facing Explainability in Medical Artificial Intelligence: A Systematic Scoping Review"
+  year: 2026
+  authors:
+    - family-names: Kumarathas
+      given-names: Ashvin
+      orcid: "https://orcid.org/0009-0005-1135-6074"
+    - family-names: Surty
+      given-names: Yusuf
+    - family-names: Woyton
+      given-names: Mike
+    - family-names: Lord
+      given-names: Amy
+    - family-names: Bowyer
+      given-names: Stuart A

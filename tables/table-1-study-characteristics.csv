@@ -1,0 +1,21 @@
+Author (Year),Country,Clinical Domain,Clinical Task,Study Design,Testing (n),AI Architecture,Explanation Modality,Delivery Format,Patient Involvement Phase
+Alam & Mueller (2021),USA,Internal Medicine,Diagnosis,Randomised Experiment,193,Simulated Algorithm,Hybrid,Web Platform,Summative Testing
+Alduhailan et al. (2025),Saudi Arabia,Primary & Emergency Care,Triage,Observational Study,35,Black-Box ML,Textual,Mobile Health App,Summative Testing
+Algarni (2025),Saudi Arabia,Radiology,Diagnosis,Observational Study,Not Reported,Large Language Model,Hybrid,Conceptual Prototype,Summative Testing
+Aziz et al. (2026),Pakistan,Psychiatry,Self-Management,Randomised Controlled Trial,120,Large Language Model,Textual,Web Platform,Clinical Implementation
+Begum et al. (2025),Pakistan,Internal Medicine,Self-Management,Observational Study,200 (20)*,Black-Box ML,Textual,Mobile Health App,Clinical Implementation
+Bolpagni et al. (2024),Italy,Psychiatry,Self-Management,Qualitative Study,12,Simulated Algorithm,Textual,Conceptual Prototype,Co-design
+Gombolay et al. (2024),USA,Internal Medicine,Treatment Selection,Randomised Experiment,365,Black-Box ML,Visual,Web Platform,Summative Testing
+Gould et al. (2023),Australia,Surgery,Prognosis,Qualitative Study,20,Simulated Algorithm,Textual,Conceptual Prototype,Needs Assessment
+He et al. (2023),China,Internal Medicine,Screening,Mixed Methods,8,Simulated Algorithm,Hybrid,Conceptual Prototype,Co-design
+Hildebrand et al. (2023),USA,Oncology,Prognosis,Qualitative Study,30,Black-Box ML,Textual,Static Report,Summative Testing
+Huang et al. (2024),USA,Primary & Emergency Care,Self-Management,Randomised Experiment,155,Large Language Model,Textual,Web Platform,Summative Testing
+Lombaers et al. (2026),Netherlands,Oncology,Prognosis,Qualitative Study,19,Interpretable Machine Learning,Hybrid,Static Report,Needs Assessment
+Metta et al. (2024),Italy & France,Oncology,Diagnosis,Observational Study,156,Black-Box ML,Hybrid,Web Platform,Summative Testing
+Sperling et al. (2025),USA,Internal Medicine,Prognosis,Qualitative Study,52,Simulated Algorithm,Textual,Conceptual Prototype,Needs Assessment
+Tsai et al. (2021),USA,Primary & Emergency Care,Triage,Mixed Methods,45,Interpretable Machine Learning,Textual,Web Platform,Needs Assessment
+Wang et al. (2025),China,Psychiatry,Screening,Randomised Experiment,346,Simulated Algorithm,Textual,Web Platform,Summative Testing
+Williams et al. (2025),USA,Psychiatry,Screening,Qualitative Study,33,Interpretable Machine Learning,Hybrid,Conceptual Prototype,Co-design
+Woodcock et al. (2021),United Kingdom,Primary & Emergency Care,Triage,Randomised Experiment,750,Simulated Algorithm,Textual,Web Platform,Summative Testing
+Wu et al. (2025),China,Surgery,Screening,Randomised Controlled Trial,70,Large Language Model,Hybrid,In-Clinic App,Summative Testing
+Zhang et al. (2021),USA,Radiology,Self-Management,Randomised Experiment,"3,423",Interpretable Machine Learning,Textual,Web Platform,Summative Testing
