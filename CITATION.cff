@@ -7,8 +7,9 @@ abstract: >-
   explainable AI in medicine.
 type: software
 license: MIT
-# TODO: add the Zenodo DOI once the release is archived.
-# doi: 10.5281/zenodo.XXXXXXX
+version: 1.0.0
+date-released: 2026-11-03
+doi: 10.5281/zenodo.23919752
 authors:
   - family-names: Kumarathas
     given-names: Ashvin
@@ -25,6 +26,7 @@ authors:
     affiliation: "Department of Surgery and Cancer, Imperial College London, London, United Kingdom; Hampshire Hospitals NHS Foundation Trust, Basingstoke, United Kingdom"
   - family-names: Bowyer
     given-names: Stuart A
+    orcid: "https://orcid.org/0000-0003-2726-1705"
     email: stuart.bowyer@imperial.ac.uk
     affiliation: "Department of Surgery and Cancer, Imperial College London, London, United Kingdom"
 keywords:
@@ -54,3 +56,4 @@ preferred-citation:
       given-names: Amy
     - family-names: Bowyer
       given-names: Stuart A
+      orcid: "https://orcid.org/0000-0003-2726-1705"

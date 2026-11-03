@@ -1,5 +1,7 @@
 # Methods and Metrics for Patient-Facing Explainability in Medical Artificial Intelligence
 
+[![DOI](https://zenodo.org/badge/1361943411.svg)](https://doi.org/10.5281/zenodo.23919751)
+
 Figure generation code for the systematic scoping review *Methods and Metrics for
 Patient-Facing Explainability in Medical Artificial Intelligence: A Systematic
 Scoping Review* (Kumarathas, Surty, Woyton, Lord and Bowyer, 2026).
@@ -10,7 +12,8 @@ evaluation metrics. It introduces a **Trust Calibration Matrix**, which classifi
 each study by subjective user trust against objectively verified model accuracy
 (Concordant, Discordant, Unverified).
 
-Protocol: [OSF SPFJ7](https://doi.org/10.17605/OSF.IO/SPFJ7)
+Protocol: [OSF SPFJ7](https://doi.org/10.17605/OSF.IO/SPFJ7) ·
+Archived release (v1.0.0, as submitted): [10.5281/zenodo.23919752](https://doi.org/10.5281/zenodo.23919752)
 
 ## What is in this repository
 
@@ -25,8 +28,7 @@ Protocol: [OSF SPFJ7](https://doi.org/10.17605/OSF.IO/SPFJ7)
 Every count in every figure is derived from the workbook at run time — it is the
 single source of truth. Editing a study, or adding one, changes the figures with no
 other edit required. The CSV is regenerated on each run, so it cannot drift; edit the
-xlsx only. The copy archived on OSF
-([EJSGZ](https://doi.org/10.17605/OSF.IO/EJSGZ)) is the version of record.
+xlsx only.
 
 Categorical variables are recorded at their original granularity and grouped into the
 Appendix B taxonomies in the Setup cell. Those mappings are explicit: a value with no
